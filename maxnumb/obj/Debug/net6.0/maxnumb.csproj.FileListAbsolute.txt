@@ -1,0 +1,15 @@
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\bin\Debug\net6.0\maxnumb.exe
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\bin\Debug\net6.0\maxnumb.deps.json
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\bin\Debug\net6.0\maxnumb.runtimeconfig.json
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\bin\Debug\net6.0\maxnumb.dll
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\bin\Debug\net6.0\maxnumb.pdb
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\obj\Debug\net6.0\maxnumb.csproj.AssemblyReference.cache
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\obj\Debug\net6.0\maxnumb.GeneratedMSBuildEditorConfig.editorconfig
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\obj\Debug\net6.0\maxnumb.AssemblyInfoInputs.cache
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\obj\Debug\net6.0\maxnumb.AssemblyInfo.cs
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\obj\Debug\net6.0\maxnumb.csproj.CoreCompileInputs.cache
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\obj\Debug\net6.0\maxnumb.dll
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\obj\Debug\net6.0\refint\maxnumb.dll
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\obj\Debug\net6.0\maxnumb.pdb
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\obj\Debug\net6.0\maxnumb.genruntimeconfig.cache
+X:\Новая папка\DZSisharp\DZ1sisharp\maxnumb\obj\Debug\net6.0\ref\maxnumb.dll
